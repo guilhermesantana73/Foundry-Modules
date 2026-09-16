@@ -1,3 +1,12 @@
 [submodule "Suplementos-de-Arton"]
 	path = Suplementos-de-Arton
 	url = https://github.com/mobguilherme/Suplementos-de-Arton.git
+[submodule "Bestiario-de-Arton"]
+	path = Bestiario-de-Arton
+	url = https://github.com/mobguilherme/Bestiario-de-Arton.git
+[submodule "Revista-T20-Fullgor-dos-Deuses"]
+	path = Revista-T20-Fullgor-dos-Deuses
+	url = https://github.com/mobguilherme/Revista-T20-Fullgor-dos-Deuses.git
+[submodule "Aventura-Coracao-de-Rubi"]
+	path = Aventura-Coracao-de-Rubi
+	url = https://github.com/mobguilherme/Aventura-Coracao-de-Rubi.git
